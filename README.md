@@ -1,2 +1,6 @@
-# app-dev
-My first Repository 
+{
+
+movie: Interstellar 
+genre: SciFi 
+
+}
